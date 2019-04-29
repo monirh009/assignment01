@@ -1,0 +1,22 @@
+body{
+    background: pink;
+    margin: 20px;
+}
+	table{
+    border-color: #424040;
+    border-collapse: collapse;
+    margin: auto;
+    width: 60%;
+    box-shadow: 5px 5px 5px green;
+    margin: auto;
+}
+	tr{}
+	th{
+    background: #a9a4f5;
+    color: white;
+}
+	td{
+    background-color: #03a9f44a;
+    font-size: 14px;
+    padding: 10px;
+}
